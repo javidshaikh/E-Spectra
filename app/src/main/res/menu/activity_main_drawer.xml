@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_notice_wall"
+
+
+            android:title="Notice Wall" />
+        <item
+            android:id="@+id/nav_admin_login"
+
+            android:title="Admin Login" />
+        <item
+            android:id="@+id/nav_ques_papers"
+
+            android:title="Question Papers" />
+        <item
+            android:id="@+id/nav_about_us"
+
+            android:title="About Us" />
+    </group>
+
+</menu>

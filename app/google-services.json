@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "349742352887",
+    "firebase_url": "https://e-spectra.firebaseio.com",
+    "project_id": "e-spectra",
+    "storage_bucket": "e-spectra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349742352887:android:ad857550e4f721a8",
+        "android_client_info": {
+          "package_name": "agadi.enc.e_spectra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349742352887-mtarr79tljbqt39ra4t0k6mca17sm2en.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "agadi.enc.e_spectra",
+            "certificate_hash": "B91A222119D4903F88D0116AA35F16E8EC1D77BB"
+          }
+        },
+        {
+          "client_id": "349742352887-0sm50tqrnfo69um65o2c3n88uj33et1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMWZEYFdqbM44YdcSg_1ptppyKuTIZcTM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349742352887-0sm50tqrnfo69um65o2c3n88uj33et1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
